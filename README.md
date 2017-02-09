@@ -1,1 +1,1 @@
-# gstreamer1.0_scripts
+Python scripts using gstreamer1.0
